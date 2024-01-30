@@ -110,8 +110,8 @@ id: Kyrgyzstan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Kyrgyzstan/
-markerFolder: ./Kyrgyzstan/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Kyrgyzstan] 
