@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.23,72.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Utsch-Kurgan|Utsch-Kurgan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Utsch-Kurgan.public|Utsch-Kurgan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Utsch-Kurgan.internal|Utsch-Kurgan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Utsch-Kurgan.protect|Utsch-Kurgan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Utsch-Kurgan.private|Utsch-Kurgan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Utsch-Kurgan.personal|Utsch-Kurgan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Utsch-Kurgan.secret|Utsch-Kurgan.secret]] 
+
+### #is_/same_as :: [Utsch-Kurgan](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.md) 
+
+### #is_/same_as :: [Utsch-Kurgan.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.public.md) 
+
+### #is_/same_as :: [Utsch-Kurgan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.internal.md) 
+
+### #is_/same_as :: [Utsch-Kurgan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.protect.md) 
+
+### #is_/same_as :: [Utsch-Kurgan.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.private.md) 
+
+### #is_/same_as :: [Utsch-Kurgan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.personal.md) 
+
+### #is_/same_as :: [Utsch-Kurgan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.secret.md)
+

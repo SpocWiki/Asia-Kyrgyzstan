@@ -40,11 +40,18 @@ markerFolder: ./Naryn/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn|Naryn]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.public|Naryn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.internal|Naryn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.protect|Naryn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.private|Naryn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.personal|Naryn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Naryn.secret|Naryn.secret]] 
+
+### #is_/same_as :: [Naryn](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn.md) 
+
+### #is_/same_as :: [Naryn.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn.public.md) 
+
+### #is_/same_as :: [Naryn.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn.internal.md) 
+
+### #is_/same_as :: [Naryn.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn.protect.md) 
+
+### #is_/same_as :: [Naryn.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn.private.md) 
+
+### #is_/same_as :: [Naryn.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn.personal.md) 
+
+### #is_/same_as :: [Naryn.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [40.92,73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Djabal-Abad|Djabal-Abad]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Djabal-Abad.public|Djabal-Abad.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Djabal-Abad.internal|Djabal-Abad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Djabal-Abad.protect|Djabal-Abad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Djabal-Abad.private|Djabal-Abad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Djabal-Abad.personal|Djabal-Abad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Djabal-Abad.secret|Djabal-Abad.secret]] 
+
+### #is_/same_as :: [Djabal-Abad](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.md) 
+
+### #is_/same_as :: [Djabal-Abad.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.public.md) 
+
+### #is_/same_as :: [Djabal-Abad.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.internal.md) 
+
+### #is_/same_as :: [Djabal-Abad.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.protect.md) 
+
+### #is_/same_as :: [Djabal-Abad.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.private.md) 
+
+### #is_/same_as :: [Djabal-Abad.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.personal.md) 
+
+### #is_/same_as :: [Djabal-Abad.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.secret.md)
+

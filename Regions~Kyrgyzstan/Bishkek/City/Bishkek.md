@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kyrgyzstan/City/Bishkek|Bishkek]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/City/Bishkek.public|Bishkek.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/City/Bishkek.internal|Bishkek.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/City/Bishkek.protect|Bishkek.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/City/Bishkek.private|Bishkek.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/City/Bishkek.personal|Bishkek.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/City/Bishkek.secret|Bishkek.secret]] 
+
+### #is_/same_as :: [Bishkek](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.md) 
+
+### #is_/same_as :: [Bishkek.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.public.md) 
+
+### #is_/same_as :: [Bishkek.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.internal.md) 
+
+### #is_/same_as :: [Bishkek.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.protect.md) 
+
+### #is_/same_as :: [Bishkek.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.private.md) 
+
+### #is_/same_as :: [Bishkek.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.personal.md) 
+
+### #is_/same_as :: [Bishkek.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.secret.md)
+

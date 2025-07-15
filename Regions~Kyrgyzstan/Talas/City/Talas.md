@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.53,72.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Talas|Talas]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Talas.public|Talas.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Talas.internal|Talas.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Talas.protect|Talas.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Talas.private|Talas.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Talas.personal|Talas.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Talas.secret|Talas.secret]] 
+
+### #is_/same_as :: [Talas](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Talas/City/Talas.md) 
+
+### #is_/same_as :: [Talas.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Talas/City/Talas.public.md) 
+
+### #is_/same_as :: [Talas.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Talas/City/Talas.internal.md) 
+
+### #is_/same_as :: [Talas.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Talas/City/Talas.protect.md) 
+
+### #is_/same_as :: [Talas.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Talas/City/Talas.private.md) 
+
+### #is_/same_as :: [Talas.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Talas/City/Talas.personal.md) 
+
+### #is_/same_as :: [Talas.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Talas/City/Talas.secret.md)
+

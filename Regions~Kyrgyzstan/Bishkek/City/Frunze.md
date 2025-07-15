@@ -1,4 +1,4 @@
-﻿---
+---
 location: [42.9,74.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Frunze|Frunze]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Frunze.public|Frunze.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Frunze.internal|Frunze.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Frunze.protect|Frunze.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Frunze.private|Frunze.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Frunze.personal|Frunze.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Frunze.secret|Frunze.secret]] 
+
+### #is_/same_as :: [Frunze](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.md) 
+
+### #is_/same_as :: [Frunze.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.public.md) 
+
+### #is_/same_as :: [Frunze.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.internal.md) 
+
+### #is_/same_as :: [Frunze.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.protect.md) 
+
+### #is_/same_as :: [Frunze.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.private.md) 
+
+### #is_/same_as :: [Frunze.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.personal.md) 
+
+### #is_/same_as :: [Frunze.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.secret.md)
+

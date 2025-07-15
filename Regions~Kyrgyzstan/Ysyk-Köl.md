@@ -40,11 +40,18 @@ markerFolder: ./Ysyk-Köl/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Ysyk-Köl|Ysyk-Köl]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Ysyk-Köl.public|Ysyk-Köl.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Ysyk-Köl.internal|Ysyk-Köl.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Ysyk-Köl.protect|Ysyk-Köl.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Ysyk-Köl.private|Ysyk-Köl.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Ysyk-Köl.personal|Ysyk-Köl.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan/Counties/Ysyk-Köl.secret|Ysyk-Köl.secret]] 
+
+### #is_/same_as :: [Ysyk-Köl](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl.md) 
+
+### #is_/same_as :: [Ysyk-Köl.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl.public.md) 
+
+### #is_/same_as :: [Ysyk-Köl.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl.internal.md) 
+
+### #is_/same_as :: [Ysyk-Köl.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl.protect.md) 
+
+### #is_/same_as :: [Ysyk-Köl.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl.private.md) 
+
+### #is_/same_as :: [Ysyk-Köl.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl.personal.md) 
+
+### #is_/same_as :: [Ysyk-Köl.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.47,76.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Naryn|Naryn]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Naryn.public|Naryn.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Naryn.internal|Naryn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Naryn.protect|Naryn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Naryn.private|Naryn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Naryn.personal|Naryn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Naryn.secret|Naryn.secret]] 
+
+### #is_/same_as :: [Naryn](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn/City/Naryn.md) 
+
+### #is_/same_as :: [Naryn.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn/City/Naryn.public.md) 
+
+### #is_/same_as :: [Naryn.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn/City/Naryn.internal.md) 
+
+### #is_/same_as :: [Naryn.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn/City/Naryn.protect.md) 
+
+### #is_/same_as :: [Naryn.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn/City/Naryn.private.md) 
+
+### #is_/same_as :: [Naryn.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn/City/Naryn.personal.md) 
+
+### #is_/same_as :: [Naryn.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Naryn/City/Naryn.secret.md)
+

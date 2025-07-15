@@ -131,10 +131,4 @@ Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Kyrgyzstan|Kyrgyzstan]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~Central/Kyrgyzstan.internal|Kyrgyzstan.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~Central/Kyrgyzstan.protect|Kyrgyzstan.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~Central/Kyrgyzstan.private|Kyrgyzstan.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~Central/Kyrgyzstan.personal|Kyrgyzstan.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~Central/Kyrgyzstan.secret|Kyrgyzstan.secret]] 
+
