@@ -34,6 +34,7 @@ id: Chuy
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 7
 geojsonFolder: ./Chuy/
 markerFolder: ./Chuy/
 ```

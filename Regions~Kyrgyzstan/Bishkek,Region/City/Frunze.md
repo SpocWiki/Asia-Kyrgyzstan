@@ -33,7 +33,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frunze](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.md) 
+### #is_/same_as :: [Frunze](Frunze.md) 
 
 ### #is_/same_as :: [Frunze.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.public.md) 
 
