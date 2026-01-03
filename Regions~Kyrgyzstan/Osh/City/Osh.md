@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Osh](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh|Osh]] 
 
-### #is_/same_as :: [Osh.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.public|Osh.public]] 
 
-### #is_/same_as :: [Osh.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.internal|Osh.internal]] 
 
-### #is_/same_as :: [Osh.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.protect|Osh.protect]] 
 
-### #is_/same_as :: [Osh.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.private|Osh.private]] 
 
-### #is_/same_as :: [Osh.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.personal|Osh.personal]] 
 
-### #is_/same_as :: [Osh.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Osh/City/Osh.secret|Osh.secret]] 
 

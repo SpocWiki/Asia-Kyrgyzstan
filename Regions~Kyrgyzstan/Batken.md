@@ -40,17 +40,17 @@ markerFolder: ./Batken/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Batken](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken|Batken]] 
 
-### #is_/same_as :: [Batken.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.public|Batken.public]] 
 
-### #is_/same_as :: [Batken.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.internal|Batken.internal]] 
 
-### #is_/same_as :: [Batken.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.protect|Batken.protect]] 
 
-### #is_/same_as :: [Batken.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.private|Batken.private]] 
 
-### #is_/same_as :: [Batken.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.personal|Batken.personal]] 
 
-### #is_/same_as :: [Batken.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken.secret|Batken.secret]] 
 

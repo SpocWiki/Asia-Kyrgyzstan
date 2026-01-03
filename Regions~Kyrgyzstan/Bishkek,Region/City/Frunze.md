@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frunze](Frunze.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Frunze|Frunze]] 
 
-### #is_/same_as :: [Frunze.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Frunze.public|Frunze.public]] 
 
-### #is_/same_as :: [Frunze.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Frunze.internal|Frunze.internal]] 
 
-### #is_/same_as :: [Frunze.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Frunze.protect|Frunze.protect]] 
 
-### #is_/same_as :: [Frunze.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Frunze.private|Frunze.private]] 
 
-### #is_/same_as :: [Frunze.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Frunze.personal|Frunze.personal]] 
 
-### #is_/same_as :: [Frunze.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Frunze.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Frunze.secret|Frunze.secret]] 
 

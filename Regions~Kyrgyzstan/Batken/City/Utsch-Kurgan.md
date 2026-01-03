@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Utsch-Kurgan](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan|Utsch-Kurgan]] 
 
-### #is_/same_as :: [Utsch-Kurgan.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.public|Utsch-Kurgan.public]] 
 
-### #is_/same_as :: [Utsch-Kurgan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.internal|Utsch-Kurgan.internal]] 
 
-### #is_/same_as :: [Utsch-Kurgan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.protect|Utsch-Kurgan.protect]] 
 
-### #is_/same_as :: [Utsch-Kurgan.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.private|Utsch-Kurgan.private]] 
 
-### #is_/same_as :: [Utsch-Kurgan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.personal|Utsch-Kurgan.personal]] 
 
-### #is_/same_as :: [Utsch-Kurgan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Batken/City/Utsch-Kurgan.secret|Utsch-Kurgan.secret]] 
 

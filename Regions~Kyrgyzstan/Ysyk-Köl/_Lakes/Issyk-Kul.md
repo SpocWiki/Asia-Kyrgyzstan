@@ -65,3 +65,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Issyk%20Kul.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Issyk-Kul) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/_Lakes/Issyk-Kul|Issyk-Kul]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/_Lakes/Issyk-Kul.public|Issyk-Kul.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/_Lakes/Issyk-Kul.internal|Issyk-Kul.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/_Lakes/Issyk-Kul.protect|Issyk-Kul.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/_Lakes/Issyk-Kul.private|Issyk-Kul.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/_Lakes/Issyk-Kul.personal|Issyk-Kul.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/_Lakes/Issyk-Kul.secret|Issyk-Kul.secret]] 
+

@@ -62,3 +62,20 @@ Commons_category: Tian Shan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tian%20Shan) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Tianshan_Mountains|Tianshan_Mountains]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Tianshan_Mountains.public|Tianshan_Mountains.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Tianshan_Mountains.internal|Tianshan_Mountains.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Tianshan_Mountains.protect|Tianshan_Mountains.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Tianshan_Mountains.private|Tianshan_Mountains.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Tianshan_Mountains.personal|Tianshan_Mountains.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Tianshan_Mountains.secret|Tianshan_Mountains.secret]] 
+

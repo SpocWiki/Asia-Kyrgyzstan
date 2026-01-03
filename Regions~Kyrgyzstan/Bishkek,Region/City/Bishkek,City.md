@@ -147,17 +147,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bishkek,City](Bishkek,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Bishkek,City|Bishkek,City]] 
 
-### #is_/same_as :: [Bishkek.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Bishkek,City.public|Bishkek,City.public]] 
 
-### #is_/same_as :: [Bishkek.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Bishkek,City.internal|Bishkek,City.internal]] 
 
-### #is_/same_as :: [Bishkek.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Bishkek,City.protect|Bishkek,City.protect]] 
 
-### #is_/same_as :: [Bishkek.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Bishkek,City.private|Bishkek,City.private]] 
 
-### #is_/same_as :: [Bishkek.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Bishkek,City.personal|Bishkek,City.personal]] 
 
-### #is_/same_as :: [Bishkek.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek/City/Bishkek.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region/City/Bishkek,City.secret|Bishkek,City.secret]] 
 

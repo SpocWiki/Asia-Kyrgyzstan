@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Djabal-Abad](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad|Djabal-Abad]] 
 
-### #is_/same_as :: [Djabal-Abad.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.public|Djabal-Abad.public]] 
 
-### #is_/same_as :: [Djabal-Abad.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.internal|Djabal-Abad.internal]] 
 
-### #is_/same_as :: [Djabal-Abad.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.protect|Djabal-Abad.protect]] 
 
-### #is_/same_as :: [Djabal-Abad.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.private|Djabal-Abad.private]] 
 
-### #is_/same_as :: [Djabal-Abad.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.personal|Djabal-Abad.personal]] 
 
-### #is_/same_as :: [Djabal-Abad.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Jalal-Abad/City/Djabal-Abad.secret|Djabal-Abad.secret]] 
 

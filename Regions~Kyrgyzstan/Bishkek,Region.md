@@ -44,17 +44,17 @@ markerFolder: ./Bishkek/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bishkek,Region](Bishkek,Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region|Bishkek,Region]] 
 
-### #is_/same_as :: [Bishkek.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region.public|Bishkek,Region.public]] 
 
-### #is_/same_as :: [Bishkek.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region.internal|Bishkek,Region.internal]] 
 
-### #is_/same_as :: [Bishkek.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region.protect|Bishkek,Region.protect]] 
 
-### #is_/same_as :: [Bishkek.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region.private|Bishkek,Region.private]] 
 
-### #is_/same_as :: [Bishkek.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region.personal|Bishkek,Region.personal]] 
 
-### #is_/same_as :: [Bishkek.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Bishkek,Region.secret|Bishkek,Region.secret]] 
 

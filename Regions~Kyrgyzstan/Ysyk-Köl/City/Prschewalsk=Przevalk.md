@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prschewalsk=Przevalk](/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk|Prschewalsk=Przevalk]] 
 
-### #is_/same_as :: [Prschewalsk=Przevalk.public](/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.public|Prschewalsk=Przevalk.public]] 
 
-### #is_/same_as :: [Prschewalsk=Przevalk.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.internal|Prschewalsk=Przevalk.internal]] 
 
-### #is_/same_as :: [Prschewalsk=Przevalk.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.protect|Prschewalsk=Przevalk.protect]] 
 
-### #is_/same_as :: [Prschewalsk=Przevalk.private](/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.private|Prschewalsk=Przevalk.private]] 
 
-### #is_/same_as :: [Prschewalsk=Przevalk.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.personal|Prschewalsk=Przevalk.personal]] 
 
-### #is_/same_as :: [Prschewalsk=Przevalk.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Kyrgyzstan/Regions~Kyrgyzstan/Ysyk-Köl/City/Prschewalsk=Przevalk.secret|Prschewalsk=Przevalk.secret]] 
 
