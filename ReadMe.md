@@ -119,7 +119,7 @@ markerFolder: ./
 [Area-Land::0] 
 Continent :: [[Asia]]  
 [VehicleCode::KS] 
-Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]  
+Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek|Bishkek]]  
 ![[Kyrgyzstan/Emblem_of_Kyrgyzstan.svg|350]]  
 
 ![[Anthem-Kyrgyzstan.mp3]] 

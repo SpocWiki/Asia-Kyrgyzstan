@@ -5,26 +5,26 @@ aliases:
   - Ysyk-Köl
   - Ысык-Көл
 has_id_wikidata: Q42191
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Issyk_Kul_Region,487413]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Issyk_Kul_Region,487413|WD~Issyk_Kul_Region,487413]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Geographical_statistical_dictionary_of_the_Russian_Empire,4135594]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Q2349464,2349464]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Geographical_statistical_dictionary_of_the_Russian_Empire,4135594|WD~Geographical_statistical_dictionary_of_the_Russian_Empire,4135594]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: "[[_Standards/WikiData/WD~Q2349464,2349464|WD~Q2349464,2349464]]"
 inflows:
-  - "[[_Standards/WikiData/WD~Jyrgalan_River,6319494]]"
-  - "[[_Standards/WikiData/WD~Tamga_River,7681188]]"
-  - "[[_Standards/WikiData/WD~Tosor_River,7827853]]"
-  - "[[_Standards/WikiData/WD~Tyup_River,7861895]]"
+  - "[[_Standards/WikiData/WD~Jyrgalan_River,6319494|WD~Jyrgalan_River,6319494]]"
+  - "[[_Standards/WikiData/WD~Tamga_River,7681188|WD~Tamga_River,7681188]]"
+  - "[[_Standards/WikiData/WD~Tosor_River,7827853|WD~Tosor_River,7827853]]"
+  - "[[_Standards/WikiData/WD~Tyup_River,7861895|WD~Tyup_River,7861895]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~endorheic_lake,9019918]]"
-  - "[[_Standards/WikiData/WD~lake,23397]]"
-category_for_the_water_basin: "[[_Standards/WikiData/WD~Q19477762,19477762]]"
-heritage_designation: "[[_Standards/WikiData/WD~Ramsar_site,19683138]]"
-basin_country: "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
-country: "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
+  - "[[_Standards/WikiData/WD~endorheic_lake,9019918|WD~endorheic_lake,9019918]]"
+  - "[[_Standards/WikiData/WD~lake,23397|WD~lake,23397]]"
+category_for_the_water_basin: "[[_Standards/WikiData/WD~Q19477762,19477762|WD~Q19477762,19477762]]"
+heritage_designation: "[[_Standards/WikiData/WD~Ramsar_site,19683138|WD~Ramsar_site,19683138]]"
+basin_country: "[[_Standards/WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]"
+country: "[[_Standards/WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]"
 width: 60
 length: 182
 watershed_area: 21900

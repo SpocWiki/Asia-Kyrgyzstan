@@ -6,30 +6,30 @@ aliases:
 has_id_wikidata: Q5474
 location: [42.0375, 80.125277777]
 coordinate_location: Point(80.125277777 42.0375)
-highest_point: "[[_Standards/WikiData/WD~Jengish_Chokusu,332762]]"
+highest_point: "[[_Standards/WikiData/WD~Jengish_Chokusu,332762|WD~Jengish_Chokusu,332762]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q10802047,10802047]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+topic_has_template: "[[_Standards/WikiData/WD~Q10802047,10802047|WD~Q10802047,10802047]]"
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q25695132,25695132]]"
-  - "[[_Standards/WikiData/WD~Q25696243,25696243]]"
+  - "[[_Standards/WikiData/WD~Q25695132,25695132|WD~Q25695132,25695132]]"
+  - "[[_Standards/WikiData/WD~Q25696243,25696243|WD~Q25696243,25696243]]"
 country:
-  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
-  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+  - "[[_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]"
+  - "[[_Standards/WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - "[[_Standards/WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 width: 400
 length: 2500
-instance_of: "[[_Standards/WikiData/WD~mountain_range,46831]]"
+instance_of: "[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]"
 elevation_above_sea_level: 7439
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Altai%2C%20Tienschan-Orte.png
 native_label: 天山
