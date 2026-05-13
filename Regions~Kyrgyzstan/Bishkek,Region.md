@@ -39,7 +39,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bishkek/
 markerFolder: ./Bishkek/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

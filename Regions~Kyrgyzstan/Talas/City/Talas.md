@@ -28,7 +28,7 @@ coordinates: [[Talas]]
 markerFile: [[Talas]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

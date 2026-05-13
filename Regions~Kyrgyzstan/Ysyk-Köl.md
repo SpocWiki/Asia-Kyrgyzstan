@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ysyk-Köl/
 markerFolder: ./Ysyk-Köl/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

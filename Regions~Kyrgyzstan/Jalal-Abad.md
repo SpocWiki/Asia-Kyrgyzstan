@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Jalal-Abad/
 markerFolder: ./Jalal-Abad/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

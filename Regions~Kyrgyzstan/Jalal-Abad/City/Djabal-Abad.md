@@ -28,7 +28,7 @@ coordinates: [[Djabal-Abad]]
 markerFile: [[Djabal-Abad]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
