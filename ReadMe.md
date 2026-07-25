@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 吉尔吉斯共和国
 dv_UNTERM_French_Formal: la République kirghize
 dv_UNTERM_Russian: Кыргызстан
 dv_UNTERM_Russian_Formal: Кыргызская Республика
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Kyrgyzstan]]'
 dv_Sub-region_Name: '[[Central Asia]]'
 dv_Region: 142
@@ -53,7 +53,7 @@ dv_ISO2: KG
 dv_ISO3: KGZ
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]'
+  - '[[../../../../../WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan|Kyrgyzstan]]'
   - '[[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.public|Kyrgyzstan.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.internal|Kyrgyzstan.internal]]'
@@ -362,17 +362,17 @@ dv_has_:
 dv_has_name_de: Kirgisistan
 dv_Area-Total: 198500
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: KS
-dv_Capital: '[[Kyrgyzstan/Counties/Bishkek/City/Bishkek|Bishkek]]'
+dv_Capital: '[[Counties/Bishkek/City/Bishkek|Bishkek]]'
 dv_Alcohol-l: 5.1
 dv_Language-Id: 469
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 74.6
 dv_has_place_latitude: 42.8667
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]'
+- '[[../../../../../WikiData/WD~Kyrgyzstan,813|WD~Kyrgyzstan,813]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~Central/Kyrgyzstan|Kyrgyzstan]]'
 - '[[/_public/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.public|Kyrgyzstan.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~Central/Kyrgyzstan.internal|Kyrgyzstan.internal]]'
@@ -550,7 +550,7 @@ aliases:
 - 키르기스스탄
 has_id_wikidata: Q813
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~Asian_Development_Bank,188822|WD~Asian_Development_Bank,188822]]'
@@ -943,7 +943,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Kyrgyzstan/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -963,7 +963,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Kyrgyzstan_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -988,10 +988,10 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[Kyrgyzstan/Emblem_of_Kyrgyzstan.svg|350]]  
+![[Emblem_of_Kyrgyzstan.svg|350]]  
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Kyrgyzstan.mp3|Anthem-Kyrgyzstan.mp3]]
-![[Kyrgyzstan/Flag_of_Kyrgyzstan.svg|350]]  
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Kyrgyzstan.mp3|Anthem-Kyrgyzstan.mp3]]
+![[Flag_of_Kyrgyzstan.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
